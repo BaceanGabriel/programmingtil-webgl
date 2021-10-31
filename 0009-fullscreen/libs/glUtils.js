@@ -1,4 +1,4 @@
-(function(global){
+(function(global){5
 
   var glUtils = {
     VERSION : '0.0.1x',
